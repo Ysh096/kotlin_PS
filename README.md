@@ -4,3 +4,4 @@
 
 ## 참고문서
 - [Array](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/)
+- [mapOf](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/map-of.html)
